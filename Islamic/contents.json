@@ -1,0 +1,2293 @@
+{
+  "android_play_store_link": "https://play.google.com/store/apps/developer?id=com.wasticker.islamichijabsticker",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "Hijab Sticker",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "2",
+      "name": "Hijab Sticker 2",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version": "1",
+      "avoid_cache": false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "3",
+      "name": "Hijab Colorfull",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🎉"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "4",
+      "name": "Ramadhan",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "5",
+      "name": "Ramadhan Mubarak",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "6",
+      "name": "Ramadhan Fasting",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "17.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😡"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "7",
+      "name": "Hijab Ramadhan",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😩"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "8",
+      "name": "Ramadhan Family",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "☕",
+            "🙂"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "9",
+      "name": "Ramadhan Family 2",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "10",
+      "name": "Hijab Fasting",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "11",
+      "name": "Islamic Word",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🎉"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "12",
+      "name": "Hijab Bahasa",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🎉"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "13",
+      "name": "Islamic Word 2",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "😄",
+            "😀"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ]
+        }
+      ]
+    },
+    {
+      "identifier": "14",
+      "name": "Islamic Word 3",
+      "publisher": "Lanang Telu",
+      "tray_image_file": "1.webp",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "animated_sticker_pack": false,
+      "stickers": [
+        {
+          "image_file": "1.webp",
+          "emojis": [
+            "☕"
+          ]
+        },
+        {
+          "image_file": "2.webp",
+          "emojis": [
+            "😄"
+          ]
+        },
+        {
+          "image_file": "3.webp",
+          "emojis": [
+            "😆"
+          ]
+        },
+        {
+          "image_file": "4.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "5.webp",
+          "emojis": [
+            "😭"
+          ]
+        },
+        {
+          "image_file": "6.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "7.webp",
+          "emojis": [
+            "💔"
+          ]
+        },
+        {
+          "image_file": "8.webp",
+          "emojis": [
+            "😍"
+          ]
+        },
+        {
+          "image_file": "9.webp",
+          "emojis": [
+            "😘"
+          ]
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🤔"
+          ]
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😱"
+          ]
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "❓"
+          ]
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "🌈"
+          ]
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "😩"
+          ]
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "🎉"
+          ]
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🤮"
+          ]
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "🖐"
+          ]
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "💻"
+          ]
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "😡"
+          ]
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "😩"
+          ]
+        }
+      ]
+    }
+  ]
+}
