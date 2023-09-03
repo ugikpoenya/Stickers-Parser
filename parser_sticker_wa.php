@@ -86,7 +86,7 @@ function cekAnimated($path)
                 if (isWebpAnimated($pathFile)) {
                     $anim = true;
                 }
-                sortirFileSize($path);
+                sortirFileSize($pathFile);
             }
         }
         if ($anim) {
@@ -115,9 +115,43 @@ function sortirFileSize($path)
 {
     $filesize = filesize($path);
     $size = number_format($filesize / 1024, 2);
+    $ext = pathinfo($path, PATHINFO_EXTENSION);
+    if (strtolower($ext) == "webp") {
+        list($width, $height) =  getimagesize($path);
+        if ($width !== $height) {
+            resize_image_webp($path, $path, '512', '512', 100, true);
+        }
 
-    if ($size > 500) {
-        unlink($path);
-        echo "<h1>[$size]</h1>";
+        if ($size > 500) {
+            unlink($path);
+            echo "<h1>[$size]</h1>";
+        }
     }
+}
+
+function resize_image_webp($source_file, $destination_file, $width, $height, $quality, $crop = FALSE)
+{
+    list($current_width, $current_height) = getimagesize($source_file);
+    $rate = $current_width / $current_height;
+    if ($crop) {
+        if ($current_width > $current_height) {
+            $current_width = ceil($current_width - ($current_width * abs($rate - $width / $height)));
+        } else {
+            $current_height = ceil($current_height - ($current_height * abs($rate - $width / $height)));
+        }
+        $newwidth = $width;
+        $newheight = $height;
+    } else {
+        if ($width / $height > $rate) {
+            $newwidth = $height * $rate;
+            $newheight = $height;
+        } else {
+            $newheight = $width / $rate;
+            $newwidth = $width;
+        }
+    }
+    $src_file = imagecreatefromwebp($source_file);
+    $dst_file = imagecreatetruecolor($newwidth, $newheight);
+    imagecopyresampled($dst_file, $src_file, 0, 0, 0, 0, $newwidth, $newheight, $current_width, $current_height);
+    imagewebp($dst_file, $destination_file, $quality);
 }
