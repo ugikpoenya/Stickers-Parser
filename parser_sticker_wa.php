@@ -100,32 +100,33 @@ function cekAnimated($path)
 
 function isWebpAnimated($src)
 {
+    $filesize = filesize($src);
+    $size = number_format($filesize / 1024, 2);
     $webpContents = file_get_contents($src);
     $where = strpos($webpContents, "ANMF");
     if ($where !== FALSE) {
         // animated
         $isAnimated = true;
+        if ($size > 500) {
+            unlink($src);
+        }
     } else {
         // non animated
         $isAnimated = false;
+        if ($size > 100) {
+            unlink($src);
+        }
     }
     return $isAnimated;
 }
 
 function sortirFileSize($path)
 {
-    $filesize = filesize($path);
-    $size = number_format($filesize / 1024, 2);
     $ext = pathinfo($path, PATHINFO_EXTENSION);
     if (strtolower($ext) == "webp") {
         list($width, $height) =  getimagesize($path);
         if ($width !== $height) {
             resize_image_webp($path, $path, '512', '512', 100, true);
-        }
-
-        if ($size > 100) {
-            unlink($path);
-            echo "<h1>[$size]</h1>";
         }
     }
 }
