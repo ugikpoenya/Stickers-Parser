@@ -70,6 +70,7 @@ function filter_filename($name)
         array_map('chr', range(0, 31)),
         array('<', '>', ':', '"', '/', '\\', '|', '?', '*')
     ), '', $name);
+    $name = str_replace("(sticker.fan)", "", $name);
     $ext = pathinfo($name, PATHINFO_EXTENSION);
     $name = mb_strcut(pathinfo($name, PATHINFO_FILENAME), 0, 255 - ($ext ? strlen($ext) + 1 : 0), mb_detect_encoding($name)) . ($ext ? '.' . $ext : '');
     return $name;
@@ -122,7 +123,7 @@ function sortirFileSize($path)
             resize_image_webp($path, $path, '512', '512', 100, true);
         }
 
-        if ($size > 500) {
+        if ($size > 100) {
             unlink($path);
             echo "<h1>[$size]</h1>";
         }
